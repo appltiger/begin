@@ -16,6 +16,7 @@ p
 {
   text-indent:20px;
   font-size:50px;
+  color:yellow;
 }
 </style>
 <body>
@@ -23,4 +24,4 @@ p
 <h1>先来试试</h1>
 <p>我是一个新书，啥也不懂，不会怎么办？学习学习再学习</p>
 </body>
-
+</html>
